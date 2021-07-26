@@ -1,0 +1,19 @@
+### SBT template
+# Simple Build Tool
+# http://www.scala-sbt.org/release/docs/Getting-Started/Directories.html#configuring-version-control
+
+.idea
+.vscode
+
+.bsp/
+project/project/target/
+project/target/
+*.class
+project/metals.sbt
+target/
+output/
+.bloop/
+.metals/
+
+*.log
+NOTES.org
