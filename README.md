@@ -7,6 +7,7 @@
 - IDEA插件：
     - IDEA Mind Map(用来支持: *.mmd)
     - Drawio(用来支持: *.drawio)
+    - Docker 
     - Scala
     - SBT
 
